@@ -1,0 +1,739 @@
+Last login: Fri Aug 30 22:04:25 on ttys000
+Macs-Mac-mini:~ mac$ history
+    1  cl
+    2  clear
+    3  date
+    4  man cc
+    5  who
+    6  finger
+    7  history
+    8  history
+    9  clear
+   10  fortune
+   11  fortune
+   12  date
+   13  cal 8 1996
+   14  xeyes &
+   15  clear
+   16  df
+   17  du
+   18  echo $shell
+   19  clear
+   20  git init
+   21  npx create-react-app my-app
+   22  cd my-app
+   23  yarn start
+   24  ls
+   25  mkdir api
+   26  ls
+   27  touch server.js
+   28  touch app.js
+   29  mkdir node server.js
+   30  mkdir node server.js
+   31   node server.js
+   32   node server.js
+   33   node server.js
+   34   node server.js
+   35   node server.js
+   36   node server.js
+   37   node server.js
+   38  npm install mongoose
+   39  clear
+   40  ls
+   41  cd api
+   42  ls
+   43  mkdir routes
+   44  cd routes/
+   45  ls
+   46  ls
+   47  touch orders.js
+   48  touch products.js
+   49  touch users.js
+   50  code .
+   51  cd ..
+   52  ls
+   53  mkdir middleware
+   54  ls
+   55  cd middleware/
+   56  ls
+   57  touch checkAuth.js
+   58  ls
+   59   node server.js
+   60  cd ..
+   61   cd ..
+   62   node server.js
+   63  ls
+   64  pwd
+   65  cls
+   66  clear
+   67  man 
+   68  kernel
+   69  man kernal
+   70  sudo apt-get update
+   71  install atom
+   72  sudo install atom
+   73  sudo apt-get install spotify
+   74  sudo apt install spotify
+   75  sudo  install spotify
+   76  clear
+   77  gem install faker
+   78  /Users/mac/Desktop/faker/script/destroy ; exit;
+   79  cd desktop
+   80  git clone gem install faker
+   81  git clone gem install faker
+   82  git clone https://github.com/faker-ruby/faker.git
+   83  /Users/mac/Desktop/faker/bin/faker ; exit;
+   84  console.log(faker);
+   85  ls
+   86  cd cmdelivery/
+   87  ls
+   88  curl -O https://youtu.be/fJ9rUzIMcZQ
+   89  date
+   90  kill
+   91  logout
+   92  man
+   93  i love you
+   94  cat
+   95  nslookup
+   96  printev
+   97  source
+   98  timt
+   99  logout'.;
+  100  date
+  101  kill
+  102   vi index.js
+  103  cd desktop
+  104  mkdir afzal
+  105  cd afzal
+  106  mkdir mohammed
+  107  touch index.js
+  108  vi index.js
+  109  cd afzal
+  110  cd desktop
+  111  ls
+  112  cd afzal
+  113  vi index.js
+  114  vi index.js
+  115  ls
+  116  cd desktop
+  117  li
+  118  mkdir afzal
+  119  touch index
+  120  rd index
+  121  remove index
+  122  rm index.js
+  123  rm index
+  124  cd afzal
+  125  touch index.js
+  126  vi index.js
+  127  cd desktop
+  128  cd afzal
+  129  echo "console.log()"
+  130  echo "console.log('1+1')">> test-node.js
+  131  test-node.js
+  132  node test-node.js
+  133  vi test-node.js
+  134  node test-node.js
+  135  vi test-node.js
+  136  cd desktop
+  137  cd afzal
+  138  vi test-node.js
+  139  node test-node.js
+  140  vi test-node.js
+  141  vi index.js
+  142  cd desktop
+  143  cd afzal
+  144  vi index.js
+  145  vi index.js
+  146  vi index.js
+  147  node index.js
+  148  vi index.js
+  149  cd desktop
+  150  cd afzal
+  151  mkdir afzal
+  152  touch index.js
+  153  rm index.js
+  154  cd afzal
+  155  touch index.js
+  156  vi index.js
+  157  node index.js
+  158  vi index.js
+  159  node index.js
+  160  node index.js
+  161  vi index.js
+  162  node index.js
+  163  vi index.js
+  164  node index.js
+  165  cd..
+  166  cd..
+  167  cd..
+  168  cd desktop
+  169  li
+  170  ls
+  171  cd..
+  172  cd ..
+  173  cd ..
+  174  cd desktop
+  175  cd cmdelivery
+  176  ls
+  177  cd faker.js
+  178  ls
+  179  vi package.json
+  180  node package.json
+  181  sudo i
+  182  sudo install
+  183  sudo i
+  184  vi package.js
+  185  vi package.jon
+  186  vi package.json
+  187  test name
+  188  test name run
+  189  test name-run
+  190  npm install
+  191  ls
+  192  vi package.json
+  193  vi package.json
+  194  npm test run
+  195  vi package.json
+  196  npm build run
+  197  vi package.json
+  198  npm run doc
+  199  npm doc run
+  200  vi package.json
+  201  npm lint run
+  202  y
+  203  npm run lint
+  204  echo `
+  205  hai every one `
+  206  echo `
+  207  hai every one ` >>index.js
+  208  echo `hai every one ` >> index.js
+  209  echo `hai hai hai` >> hai.js
+  210  cat
+  211  cat hai.js
+  212  ls
+  213  cd hai
+  214  echo `
+  215  hai hai hai`>> hai.js
+  216  vi hai.js
+  217  node hai.js
+  218  vi hai.js
+  219  node hai.js
+  220  node hai.js
+  221  vi hai.js
+  222  node hai.js
+  223  history
+  224  node hai.js
+  225  vi hai.js
+  226  node hai.js
+  227  vi hai.js
+  228  ls
+  229  vi index.js
+  230  node index.js
+  231  historynode index.js
+  232  history
+  233  exit
+  234  cat package.json
+  235  rm hai.js
+  236  ls
+  237  cat hai.js
+  238  history
+  239  echo `hai everyone` >> hai.js
+  240  cat index.js
+  241  ls
+  242  cat lib
+  243  cd lib
+  244  ls
+  245  cat address.js
+  246  cd ..
+  247  history
+  248  vi hai
+  249  ls
+  250  rm hai
+  251  history
+  252  cd ..
+  253  cd~
+  254  cd ~
+  255  cd desktop
+  256  mkdir cd ..
+  257  cd ..
+  258  cd cmdelivery
+  259  faker.name
+  260  cd faker.jss
+  261  cd faker.js
+  262  faker.name
+  263  node
+  264  cd faker.js
+  265  cd ..
+  266  cd desktop
+  267  clear
+  268  cd cmdelivery
+  269  cd faker.js
+  270  faker.name
+  271  ls
+  272  cat node_modules
+  273  cd node_modules
+  274  ls
+  275  node -v
+  276  node
+  277  cd ..
+  278  cd ~
+  279  cd desktop
+  280  cd cmdelivery
+  281  cd faker.js
+  282  node
+  283  cd ~
+  284  mkdir Geofraphical Date
+  285  rm Gepfraphocal Date
+  286  rm Gepfraphocal Data
+  287  cd desktop
+  288  mkdir geofraphical data
+  289  rm geofraphical data
+  290  clear
+  291  mkdir Date
+  292  cd Date
+  293  rename Date data
+  294  rm date
+  295  rm 
+  296  rm Date
+  297  cd ..
+  298  rm Date
+  299  rm Date
+  300  rmdir Date
+  301  cd data
+  302  mkdir country
+  303  cd country
+  304  mkdir andhra pradesh
+  305  cd andhra pradesh
+  306  mkdir city
+  307  mv city vizag
+  308  ls
+  309  cd ..
+  310  mv pradesh telangana
+  311  cd andhra
+  312  cd ..
+  313  cd ..
+  314  mv country india
+  315  cd india
+  316  cd andhra
+  317  mkdir rajamundry
+  318  mkdir amalapuram
+  319  mkdir vijayawada
+  320  mkdir tirupathi
+  321  mkdir kadapa
+  322  cd ..
+  323  cd telangana
+  324  mkdir hyderabad
+  325  mkdir warangal
+  326  mkdir kareemnagar
+  327  mkdir nizambad
+  328  mkdir rangareddy
+  329  cd ..
+  330  touch details.txt
+  331  vi details.txt
+  332  cat details.txt
+  333  cp details.txt country_details.txt
+  334  cat country_details.txt
+  335  cd ~
+  336  cd desktop
+  337  cd data
+  338  mkdir soal
+  339  cd soal
+  340  mkdir w1
+  341  cd w1
+  342  mkdir d1
+  343  cd d1
+  344  echo `go through the readme file` >> ReadMe.md
+  345  touch ReadMe.md
+  346  echo `create the directories of states and countries` >> ReadMe.md
+  347  echo `create the directories of states and countries` >> ReadMe.md
+  348  echo `create the directories of states and countries`>>ReadMe.md
+  349  echo "hai hai " >> ReadMe.md
+  350  cat ReadMe.md
+  351  git status
+  352  git init
+  353  cd ..
+  354  cd ..
+  355  cd ..
+  356  cd ..
+  357  cd data
+  358  cd india
+  359  git init
+  360  git v
+  361  git version
+  362  find git
+  363  mkdir kerala
+  364  grep e
+  365  grep "e"
+  366  grep -irl "e"
+  367  grep -il "e"
+  368  grep -irl "e"
+  369  grep -R "e"
+  370  grep -R 'e'
+  371  brew install grep
+  372  grep -R 'e'
+  373  grep 'e'
+  374  grep -iri "e"
+  375  grep -aRi -C 1 "e"
+  376  grep -aRi -C 1 "search_string" /../india
+  377  grep -aRi -C 1 "search_string" /india
+  378  grep -aRi -C 1 "e" *
+  379  grep -aRi "e" *
+  380  grep -aRi "e" 
+  381  grep "e" 
+  382  grep -aRi "e" *
+  383  grep -C "e" *
+  384  grep -aRi -C "e" *
+  385  grep -aRi -C "e" /india
+  386  grep -aRi -C "e" /telangana
+  387  grep -aRi -C "e" /details.txt
+  388  grep -aRi -C "e" *
+  389  grep -aRi "e" *
+  390  grep -aRi "e" /india
+  391  grep -aRi "e" /telangana
+  392  grep -aRi "e" /telangana
+  393  grep -aRi "e" /details.txt
+  394  cd kerala/
+  395  mkdir nothing
+  396  mkdir floode
+  397  mkdir foodie
+  398  cd ..
+  399  ls
+  400  cd kerala/
+  401  grep -R --exclude-dir=node_modules 'e' /desktop/data/india/kerala
+  402  grep -R --exclude-dir=node_modules 'e' /data/india/kerala/
+  403  grep -R --exclude-dir=kerala 'e' /data/india/kerala/
+  404  grep -rli --exclude-dir={nothing} kerala /
+  405  grep -rli --exclude-dir={kerala} 'e'  kerala /
+  406  grep -iRi "e"
+  407  grep -iRi "e" *
+  408  cd ..
+  409  grep -iRi "e" *
+  410  cd desktop
+  411  grep -iRi "india" *
+  412  grep -iRi "india" ../desktop/india
+  413  grep -iRi "india" ../desktop/india/
+  414  grep -r Walden ~/india/* 
+  415  cd desktop
+  416  nano afzal.sh
+  417  chmod +x afzal.sh
+  418  ./afzal.sh test
+  419  nano afzal.sh
+  420  cd desktop 
+  421  mkdir afzal
+  422  cd afzal
+  423  touch index.js
+  424  vi index.js
+  425  node index.js
+  426  npm install faker
+  427  node index.js
+  428  node index.js
+  429  node index.js
+  430  node index.js
+  431  node index.js
+  432  node index.js
+  433  node index.js
+  434  vi index.js
+  435  node index.js
+  436  vi index.js
+  437  node index.js
+  438  node index.js
+  439  node index.js
+  440  node index.js
+  441  vi index.js
+  442  node index.js
+  443  vi index.js
+  444  node index.js
+  445  vi index.js
+  446  node index.js
+  447  cat index,js
+  448  cat index.js
+  449  vi index.js
+  450  git init
+  451  git add index.js
+  452  git init
+  453  git status
+  454  git commit -m "saved"
+  455  git init https://github.com/afzalmadeveloper/testrepo.git
+  456  git add index.js
+  457  git status
+  458  git commit -m "saved"
+  459  git remote add origin https://github.com/afzalmadeveloper/testrepo.git
+  460  git push origin master
+  461  git status
+  462  git add index.js
+  463  git push origin master
+  464   clear
+  465  cd desktop
+  466  cd ..
+  467  cd afzal
+  468  git remote add origin https://github.com/afzalmadeveloper/testrepo.git
+  469  git push origin master
+  470  clear
+  471  cd desktop
+  472  git add afzal
+  473  git remote add origin https://github.com/afzalmadeveloper/testrepo.git
+  474  git add afzal
+  475  git commit -m "saved"
+  476  git push origin master
+  477  git add afzal
+  478  git status
+  479  git add afzal
+  480  git init
+  481  git commit -m "saved"
+  482  git add pranavi/
+  483  git status
+  484  git commit
+  485  git commit -m "save"
+  486  git push
+  487  git branch testbranch
+  488  clear
+  489  git config
+  490  git config --global user.name "afzalmadeveloper"
+  491  git config --global user.email "afzalmda786
+  492  @gmail.com"
+  493  git clone https://github.com/afzalmadeveloper/testrepo.git
+  494  git add afzal
+  495  git commit -m "save my data"
+  496  git commit -a
+  497  git push origin master
+  498  vi index.js
+  499  exit
+  500  history
+Macs-Mac-mini:~ mac$ cd Desktop
+Macs-Mac-mini:Desktop mac$ cd pranavi/
+Macs-Mac-mini:pranavi mac$ ls
+demo.js		faker.js	home.js		pranavi
+demo1.js	hello		index.js
+Macs-Mac-mini:pranavi mac$ cd faker.js/
+Macs-Mac-mini:faker.js mac$ ls
+CHANGELOG.md		bower.json		locale
+CODE_OF_MERIT.MD	build			logo.png
+CONTRIBUTING.md		conf.json		meteor
+D			doc			package.js
+MIT-LICENSE.txt		examples		package.json
+Readme.md		index.js		test
+bar.js			lib			vendor
+Macs-Mac-mini:faker.js mac$ cd lib
+Macs-Mac-mini:lib mac$ ls
+address.js	date.js		helpers.js	internet.js	phone_number.js
+book.js		fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+Macs-Mac-mini:lib mac$ vi book.js
+
+[1]+  Stopped                 vi book.js
+Macs-Mac-mini:lib mac$ rm book.js
+Macs-Mac-mini:lib mac$ ls
+address.js	fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+date.js		helpers.js	internet.js	phone_number.js
+Macs-Mac-mini:lib mac$ vi book.js
+
+[2]+  Stopped                 vi book.js
+Macs-Mac-mini:lib mac$ rm -f book.js
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ rm book.js.swp
+rm: book.js.swp: No such file or directory
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ book.js.swp
+-bash: book.js.swp: command not found
+Macs-Mac-mini:lib mac$ vim book.js
+Macs-Mac-mini:lib mac$ ls
+address.js	date.js		helpers.js	internet.js	phone_number.js
+book.js		fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ ls
+address.js	date.js		helpers.js	internet.js	phone_number.js
+book.js		fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ ls
+address.js	fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+date.js		helpers.js	internet.js	phone_number.js
+Macs-Mac-mini:lib mac$ ls
+address.js	fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+date.js		helpers.js	internet.js	phone_number.js
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ ls
+address.js	fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+date.js		helpers.js	internet.js	phone_number.js
+Macs-Mac-mini:lib mac$ rm book.js.swp
+rm: book.js.swp: No such file or directory
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ rm .book.js.swp
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ 
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ vi book.js
+
+[3]+  Stopped                 vi book.js
+Macs-Mac-mini:lib mac$ ls
+address.js	date.js		helpers.js	internet.js	phone_number.js
+book.js		fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+Macs-Mac-mini:lib mac$ cd ..
+Macs-Mac-mini:faker.js mac$ ls
+CHANGELOG.md		bower.json		locale
+CODE_OF_MERIT.MD	build			logo.png
+CONTRIBUTING.md		conf.json		meteor
+D			doc			package.js
+MIT-LICENSE.txt		examples		package.json
+Readme.md		index.js		test
+bar.js			lib			vendor
+Macs-Mac-mini:faker.js mac$ ls lib
+address.js	date.js		helpers.js	internet.js	phone_number.js
+book.js		fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+Macs-Mac-mini:faker.js mac$ cd locale/
+Macs-Mac-mini:locale mac$ ls
+ReadMe.md	en_CA.js	fa.js		nb_NO.js	tr.js
+az.js		en_GB.js	fr.js		nep.js		uk.js
+cz.js		en_IE.js	fr_CA.js	nl.js		vi.js
+de.js		en_IND.js	fr_CH.js	nl_BE.js	zh_CN.js
+de_AT.js	en_US.js	ge.js		pl.js		zh_TW.js
+de_CH.js	en_ZA.js	id_ID.js	pt_BR.js
+en.js		en_au_ocker.js	it.js		ru.js
+en_AU.js	es.js		ja.js		sk.js
+en_BORK.js	es_MX.js	ko.js		sv.js
+Macs-Mac-mini:locale mac$ touch Book
+Macs-Mac-mini:locale mac$ cd ..
+Macs-Mac-mini:faker.js mac$ cd locales/
+-bash: cd: locales/: No such file or directory
+Macs-Mac-mini:faker.js mac$ cd locale/
+Macs-Mac-mini:locale mac$ mkdir Book
+mkdir: Book: File exists
+Macs-Mac-mini:locale mac$ rm Book
+Macs-Mac-mini:locale mac$ ls
+ReadMe.md	en_CA.js	fa.js		nb_NO.js	tr.js
+az.js		en_GB.js	fr.js		nep.js		uk.js
+cz.js		en_IE.js	fr_CA.js	nl.js		vi.js
+de.js		en_IND.js	fr_CH.js	nl_BE.js	zh_CN.js
+de_AT.js	en_US.js	ge.js		pl.js		zh_TW.js
+de_CH.js	en_ZA.js	id_ID.js	pt_BR.js
+en.js		en_au_ocker.js	it.js		ru.js
+en_AU.js	es.js		ja.js		sk.js
+en_BORK.js	es_MX.js	ko.js		sv.js
+Macs-Mac-mini:locale mac$ mkdir Book
+Macs-Mac-mini:locale mac$ ls
+Book		en_BORK.js	es_MX.js	ko.js		sv.js
+ReadMe.md	en_CA.js	fa.js		nb_NO.js	tr.js
+az.js		en_GB.js	fr.js		nep.js		uk.js
+cz.js		en_IE.js	fr_CA.js	nl.js		vi.js
+de.js		en_IND.js	fr_CH.js	nl_BE.js	zh_CN.js
+de_AT.js	en_US.js	ge.js		pl.js		zh_TW.js
+de_CH.js	en_ZA.js	id_ID.js	pt_BR.js
+en.js		en_au_ocker.js	it.js		ru.js
+en_AU.js	es.js		ja.js		sk.js
+Macs-Mac-mini:locale mac$ mv Book book
+Macs-Mac-mini:locale mac$ ls
+ReadMe.md	en_BORK.js	es_MX.js	ko.js		sv.js
+az.js		en_CA.js	fa.js		nb_NO.js	tr.js
+book		en_GB.js	fr.js		nep.js		uk.js
+cz.js		en_IE.js	fr_CA.js	nl.js		vi.js
+de.js		en_IND.js	fr_CH.js	nl_BE.js	zh_CN.js
+de_AT.js	en_US.js	ge.js		pl.js		zh_TW.js
+de_CH.js	en_ZA.js	id_ID.js	pt_BR.js
+en.js		en_au_ocker.js	it.js		ru.js
+en_AU.js	es.js		ja.js		sk.js
+Macs-Mac-mini:locale mac$ cd book/
+Macs-Mac-mini:book mac$ ls
+Macs-Mac-mini:book mac$ vi index.js
+Macs-Mac-mini:book mac$ node index.js
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module './bookName'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/Users/mac/Desktop/pranavi/faker.js/locale/book/index.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+Macs-Mac-mini:book mac$ vi index.js
+Macs-Mac-mini:book mac$ vi bookName.js
+Macs-Mac-mini:book mac$ vi bookAuthor.js
+Macs-Mac-mini:book mac$ vi bookPublisher.js
+Macs-Mac-mini:book mac$ vi bookPublisher.js
+Macs-Mac-mini:book mac$ vi index.js
+Macs-Mac-mini:book mac$ cd ..
+Macs-Mac-mini:locale mac$ ls
+ReadMe.md	en_BORK.js	es_MX.js	ko.js		sv.js
+az.js		en_CA.js	fa.js		nb_NO.js	tr.js
+book		en_GB.js	fr.js		nep.js		uk.js
+cz.js		en_IE.js	fr_CA.js	nl.js		vi.js
+de.js		en_IND.js	fr_CH.js	nl_BE.js	zh_CN.js
+de_AT.js	en_US.js	ge.js		pl.js		zh_TW.js
+de_CH.js	en_ZA.js	id_ID.js	pt_BR.js
+en.js		en_au_ocker.js	it.js		ru.js
+en_AU.js	es.js		ja.js		sk.js
+Macs-Mac-mini:locale mac$ cd ..
+Macs-Mac-mini:faker.js mac$ ls
+CHANGELOG.md		bower.json		locale
+CODE_OF_MERIT.MD	build			logo.png
+CONTRIBUTING.md		conf.json		meteor
+D			doc			package.js
+MIT-LICENSE.txt		examples		package.json
+Readme.md		index.js		test
+bar.js			lib			vendor
+Macs-Mac-mini:faker.js mac$ cd lib
+Macs-Mac-mini:lib mac$ ls
+address.js	date.js		helpers.js	internet.js	phone_number.js
+book.js		fake.js		iban.js		locales		random.js
+commerce.js	finance.js	image.js	locales.js	system.js
+company.js	git.js		image_providers	lorem.js	unique.js
+database.js	hacker.js	index.js	name.js		vehicle.js
+Macs-Mac-mini:lib mac$ vi book.js
+Macs-Mac-mini:lib mac$ vim book.js
+Macs-Mac-mini:lib mac$ 
+Macs-Mac-mini:lib mac$ vi book.js
+
+   *
+   * @return {string}
+   */
+  self.price = function(min, max, dec, symbol) {
+      min = min || 1;
+      max = max || 1000;
+      dec = dec === undefined ? 2 : dec;
+      symbol = symbol || '';
+
+      if (min < 0 || max < 0) {
+          return symbol + 0.00;
+      }
+
+      var randValue = faker.random.number({ max: max, min: min });
+
+      return symbol + (Math.round(randValue * Math.pow(10, dec)) / Math.pow(10, dec)).toFixed(dec);
+  };
+return self;
+};
+
+module['exports'] = Book;
+
+
